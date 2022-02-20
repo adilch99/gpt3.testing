@@ -1,0 +1,13 @@
+.gpt3__component-feature-container_line {
+  height: 2px;
+  width: 40px;
+  background-color: #ff4820;
+  margin-bottom: 5px;
+}
+
+.gpt3__component-feature-container_title {
+  font-family: var(--font-family);
+  color: #fff;
+  font-weight: 600;
+  font-size: px;
+}
